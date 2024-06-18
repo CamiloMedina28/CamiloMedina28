@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/camilo-medina-sanchez/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilomedina28&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilomedina28)](https://github.com/anuraghazra/github-readme-stats)
 ## Dev card
 <a href="https://app.daily.dev/camilomedina"><img src="https://api.daily.dev/devcards/v2/C7W2PmZsoz6Cd7E7S48UI.png?type=default&r=b0t" width="356" alt="Camilo Medina's Dev Card"/></a>
 ## TECHSTACK

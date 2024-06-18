@@ -2,7 +2,7 @@
 🔭 I’m currently working on a tcpip stack
 🌱 I’m currently learning networking, devops and java
 <a href="https://app.daily.dev/camilomedina"><img src="https://api.daily.dev/devcards/v2/C7W2PmZsoz6Cd7E7S48UI.png?type=default&r=b0t" width="356" alt="Camilo Medina's Dev Card"/></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilomedina28)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilomedina28&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CamiloMedina28/CamiloMedina28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

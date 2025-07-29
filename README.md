@@ -1,5 +1,4 @@
 ## Hi there 👋
-* 🔭 I’m currently working on a <a href="https://github.com/CamiloMedina28/TCPIPSTACK.git">tcpip stack</a> 
 * 🌱 I’m currently learning networking, devops and java
 * 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/camilo-medina-sanchez/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
